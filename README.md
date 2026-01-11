@@ -19,10 +19,20 @@ Atualmente concentro minha carreira em desenvolvimento de APIs e automações co
 - Aplicando **Inteligência Artificial** e **Machine Learning** em análise de dados e automação de processos.
 
 ### 🗂 Projetos em destaque
+- **Dashboard Câmara dos Deputados** – Aplicação em Streamlit para análise e visualização de dados públicos da Câmara dos Deputados, com filtros dinâmicos e exportação de informações.  
+  🔗 https://camara-deputados-dashboard.streamlit.app/
+
+- **Sistema de Ingressos – Rock in Rio** – Sistema web para simulação de compra de ingressos, com modelagem orientada a objetos e interface moderna em React/Next.js.  
+  🔗 https://rock-in-rio-ticket-system-oo7f8lges-gotiquinhas-projects.vercel.app/
+
 - **Painel Interativo de Sites** – Aplicação em Streamlit que reúne análises sobre sites de uma rede de lojas, facilitando a navegação entre domínios e agregando informações relevantes.
+
 - **Dashboard de Performance Web** – Dashboard interativo para acompanhar a performance de sites do setor automotivo, com foco em velocidade, acessibilidade e experiência do usuário.
+
 - **Painel de SEO e Conversão** – Ferramenta para monitoramento de SEO técnico e métricas de conversão em sites de varejo, utilizando automações em Python para geração de relatórios e alertas.
-- **Clonagem Pinterest em Next.js** – Projeto inspirado no Pinterest, com front-end em Next.js e estilo via Tailwind, mostrando habilidades full‑stack.
+
+- **Clonagem Pinterest em Next.js** – Projeto inspirado no Pinterest, com front-end em Next.js e estilização via Tailwind CSS, demonstrando habilidades full-stack.
+
 
 ### 📨 Contato
 - 🌐 [LinkedIn](https://www.linkedin.com/in/isabela-neves-315a4a193)
