@@ -13,7 +13,7 @@ Atualmente concentro minha carreira em desenvolvimento de APIs e automações co
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat-square&logo=nextdotjs)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat-square&logo=tailwindcss)
 
-### 🧑‍🦷 Foco atual
+###  Foco atual
 - Aprimorando habilidades de desenvolvimento backend com **Python**, **SQL** e **APIs**.
 - Explorando frameworks modernos como **Next.js** e **Tailwind CSS** para desenvolvimento web.
 - Aplicando **Inteligência Artificial** e **Machine Learning** em análise de dados e automação de processos.
